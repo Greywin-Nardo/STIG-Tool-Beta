@@ -1,0 +1,16 @@
+C:\Users\shane.a.johnston\Documents\VSCode\Workspace Folders\STIG-Tool Beta\bin\Debug\net9.0-windows\STIG-Tool Beta.exe
+C:\Users\shane.a.johnston\Documents\VSCode\Workspace Folders\STIG-Tool Beta\bin\Debug\net9.0-windows\STIG-Tool Beta.deps.json
+C:\Users\shane.a.johnston\Documents\VSCode\Workspace Folders\STIG-Tool Beta\bin\Debug\net9.0-windows\STIG-Tool Beta.runtimeconfig.json
+C:\Users\shane.a.johnston\Documents\VSCode\Workspace Folders\STIG-Tool Beta\bin\Debug\net9.0-windows\STIG-Tool Beta.dll
+C:\Users\shane.a.johnston\Documents\VSCode\Workspace Folders\STIG-Tool Beta\bin\Debug\net9.0-windows\STIG-Tool Beta.pdb
+C:\Users\shane.a.johnston\Documents\VSCode\Workspace Folders\STIG-Tool Beta\obj\Debug\net9.0-windows\STIG-Tool Beta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane.a.johnston\Documents\VSCode\Workspace Folders\STIG-Tool Beta\obj\Debug\net9.0-windows\STIG-Tool Beta.AssemblyInfoInputs.cache
+C:\Users\shane.a.johnston\Documents\VSCode\Workspace Folders\STIG-Tool Beta\obj\Debug\net9.0-windows\STIG-Tool Beta.AssemblyInfo.cs
+C:\Users\shane.a.johnston\Documents\VSCode\Workspace Folders\STIG-Tool Beta\obj\Debug\net9.0-windows\STIG-Tool Beta.csproj.CoreCompileInputs.cache
+C:\Users\shane.a.johnston\Documents\VSCode\Workspace Folders\STIG-Tool Beta\obj\Debug\net9.0-windows\STIG-Tool Beta.dll
+C:\Users\shane.a.johnston\Documents\VSCode\Workspace Folders\STIG-Tool Beta\obj\Debug\net9.0-windows\refint\STIG-Tool Beta.dll
+C:\Users\shane.a.johnston\Documents\VSCode\Workspace Folders\STIG-Tool Beta\obj\Debug\net9.0-windows\STIG-Tool Beta.pdb
+C:\Users\shane.a.johnston\Documents\VSCode\Workspace Folders\STIG-Tool Beta\obj\Debug\net9.0-windows\STIG-Tool Beta.genruntimeconfig.cache
+C:\Users\shane.a.johnston\Documents\VSCode\Workspace Folders\STIG-Tool Beta\obj\Debug\net9.0-windows\ref\STIG-Tool Beta.dll
+C:\Users\shane.a.johnston\Documents\VSCode\Workspace Folders\STIG-Tool Beta\obj\Debug\net9.0-windows\STIG_Tool_Beta.Form1.resources
+C:\Users\shane.a.johnston\Documents\VSCode\Workspace Folders\STIG-Tool Beta\obj\Debug\net9.0-windows\STIG-Tool Beta.csproj.GenerateResource.cache
