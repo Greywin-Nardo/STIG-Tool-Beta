@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\shane.a.johnston\\Documents\\VSCode\\Workspace Folders\\STIG-Tool Beta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD6EAFC6-B92D-46BF-BF4E-F1286EF6714B}|STIG-Tool Beta.csproj|c:\\users\\shane.a.johnston\\documents\\vscode\\workspace folders\\stig-tool beta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AD6EAFC6-B92D-46BF-BF4E-F1286EF6714B}|STIG-Tool Beta.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AD6EAFC6-B92D-46BF-BF4E-F1286EF6714B}|STIG-Tool Beta.csproj|c:\\users\\shane.a.johnston\\documents\\vscode\\workspace folders\\stig-tool beta\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6EAFC6-B92D-46BF-BF4E-F1286EF6714B}|STIG-Tool Beta.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6EAFC6-B92D-46BF-BF4E-F1286EF6714B}|STIG-Tool Beta.csproj|c:\\users\\shane.a.johnston\\documents\\vscode\\workspace folders\\stig-tool beta\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD6EAFC6-B92D-46BF-BF4E-F1286EF6714B}|STIG-Tool Beta.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\shane.a.johnston\\Documents\\VSCode\\Workspace Folders\\STIG-Tool Beta\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\shane.a.johnston\\Documents\\VSCode\\Workspace Folders\\STIG-Tool Beta\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\shane.a.johnston\\Documents\\VSCode\\Workspace Folders\\STIG-Tool Beta\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\shane.a.johnston\\Documents\\VSCode\\Workspace Folders\\STIG-Tool Beta\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAiwLQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T21:01:18.866Z",
+              "WhenOpened": "2025-01-31T17:45:36.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shane.a.johnston\\Documents\\VSCode\\Workspace Folders\\STIG-Tool Beta\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\shane.a.johnston\\Documents\\VSCode\\Workspace Folders\\STIG-Tool Beta\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:45:13.005Z",
               "EditorCaption": " [Design]"
             }
           ]
