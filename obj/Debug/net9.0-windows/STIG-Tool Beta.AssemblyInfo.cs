@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("STIG-Tool Beta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8189cfd0124b9068a1378eee996fd5f9fdefcbe6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57818991df75dd1f4a499359e8b8698d7ea3c42f")]
 [assembly: System.Reflection.AssemblyProductAttribute("STIG-Tool Beta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("STIG-Tool Beta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -390,3 +390,4 @@ C:\Users\shane.a.johnston\Documents\VSCode\Workspace Folders\STIG-Tool Beta\bin\
 C:\Users\shane.a.johnston\Documents\VSCode\Workspace Folders\STIG-Tool Beta\obj\Debug\net9.0-windows\STIG-Tool Beta.csproj.AssemblyReference.cache
 C:\Users\shane.a.johnston\Documents\VSCode\Workspace Folders\STIG-Tool Beta\obj\Debug\net9.0-windows\STIG_Tool_Beta.MainForm.resources
 C:\Users\shane.a.johnston\Documents\VSCode\Workspace Folders\STIG-Tool Beta\obj\Debug\net9.0-windows\STIG-Too.2E80B5B1.Up2Date
+C:\Users\shane.a.johnston\Documents\VSCode\Workspace Folders\STIG-Tool Beta\bin\Debug\net9.0-windows\Resources\ESXi80_STIGChecks.json

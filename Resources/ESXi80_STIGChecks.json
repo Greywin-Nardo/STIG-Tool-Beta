@@ -1,0 +1,25 @@
+[
+  {
+    "STIG": "VMware vSphere 8.0 ESXi Security Technical Implementation Guide",
+    "STIGVersion": "2",
+    "STIGRelease": "1",
+    "STIGBenchmarkDate": "01 Aug 2024",
+    "VulId": "V-258728",
+    "RuleId": "SV-258728r958388_rule",
+    "STIGId": "ESXI-80-000005",
+    "Severity": "CAT II",
+    "SeverityOverride": "CAT II",
+    "Classification": "Unclass",
+    "RuleTitle": "The ESXi host must enforce the limit of three consecutive invalid logon attempts by a user.",
+    "Discussion": "By limiting the number of failed logon attempts, the risk of unauthorized access via user password guessing, otherwise known as brute forcing, is reduced. Once the configured number of attempts is reached, the account is locked by the ESXi host.",
+    "CheckText": "PowerCLI command to verify...",
+    "FixText": "Run Set-VMHost to fix..."
+  },
+  {
+    "VulId": "V-258729",
+    "RuleTitle": "...",
+    "Discussion": "...",
+    "CheckText": "...",
+    "FixText": "..."
+  }
+]

@@ -29,6 +29,8 @@ partial class MainForm
     private void InitializeComponent()
     {
         panelCredentials = new Panel();
+        groupBoxStigActions = new GroupBox();
+        comboBoxStigVersion = new ComboBox();
         buttonDisconnect = new Button();
         buttonConnect = new Button();
         labelPassword = new Label();
@@ -39,12 +41,16 @@ partial class MainForm
         labelComputerName = new Label();
         statusStripMain = new StatusStrip();
         toolStripStatusLabelMainInfo = new ToolStripStatusLabel();
+        dgvStigChecks = new DataGridView();
         panelCredentials.SuspendLayout();
+        groupBoxStigActions.SuspendLayout();
         statusStripMain.SuspendLayout();
+        ((System.ComponentModel.ISupportInitialize)dgvStigChecks).BeginInit();
         SuspendLayout();
         // 
         // panelCredentials
         // 
+        panelCredentials.Controls.Add(groupBoxStigActions);
         panelCredentials.Controls.Add(buttonDisconnect);
         panelCredentials.Controls.Add(buttonConnect);
         panelCredentials.Controls.Add(labelPassword);
@@ -58,6 +64,25 @@ partial class MainForm
         panelCredentials.Name = "panelCredentials";
         panelCredentials.Size = new Size(800, 100);
         panelCredentials.TabIndex = 0;
+        // 
+        // groupBoxStigActions
+        // 
+        groupBoxStigActions.Controls.Add(comboBoxStigVersion);
+        groupBoxStigActions.Dock = DockStyle.Right;
+        groupBoxStigActions.Location = new Point(509, 0);
+        groupBoxStigActions.Name = "groupBoxStigActions";
+        groupBoxStigActions.Size = new Size(291, 100);
+        groupBoxStigActions.TabIndex = 9;
+        groupBoxStigActions.TabStop = false;
+        groupBoxStigActions.Text = "STIG";
+        // 
+        // comboBoxStigVersion
+        // 
+        comboBoxStigVersion.FormattingEnabled = true;
+        comboBoxStigVersion.Location = new Point(6, 22);
+        comboBoxStigVersion.Name = "comboBoxStigVersion";
+        comboBoxStigVersion.Size = new Size(279, 23);
+        comboBoxStigVersion.TabIndex = 8;
         // 
         // buttonDisconnect
         // 
@@ -142,11 +167,22 @@ partial class MainForm
         toolStripStatusLabelMainInfo.Size = new Size(60, 17);
         toolStripStatusLabelMainInfo.Text = "Welcome!";
         // 
+        // dgvStigChecks
+        // 
+        dgvStigChecks.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+        dgvStigChecks.Dock = DockStyle.Fill;
+        dgvStigChecks.Location = new Point(0, 100);
+        dgvStigChecks.Name = "dgvStigChecks";
+        dgvStigChecks.Size = new Size(800, 328);
+        dgvStigChecks.TabIndex = 2;
+        dgvStigChecks.DataBindingComplete += dgvStigChecks_DataBindingComplete;
+        // 
         // MainForm
         // 
         AutoScaleDimensions = new SizeF(7F, 15F);
         AutoScaleMode = AutoScaleMode.Font;
         ClientSize = new Size(800, 450);
+        Controls.Add(dgvStigChecks);
         Controls.Add(statusStripMain);
         Controls.Add(panelCredentials);
         Name = "MainForm";
@@ -155,8 +191,10 @@ partial class MainForm
         Load += MainForm_Load;
         panelCredentials.ResumeLayout(false);
         panelCredentials.PerformLayout();
+        groupBoxStigActions.ResumeLayout(false);
         statusStripMain.ResumeLayout(false);
         statusStripMain.PerformLayout();
+        ((System.ComponentModel.ISupportInitialize)dgvStigChecks).EndInit();
         ResumeLayout(false);
         PerformLayout();
     }
@@ -174,4 +212,7 @@ partial class MainForm
     private StatusStrip statusStripMain;
     private Button buttonDisconnect;
     private ToolStripStatusLabel toolStripStatusLabelMainInfo;
+    private GroupBox groupBoxStigActions;
+    private ComboBox comboBoxStigVersion;
+    private DataGridView dgvStigChecks;
 }

@@ -1,0 +1,16 @@
+[
+  {
+    "VulId": "V-258728",
+    "RuleTitle": "The ESXi host must enforce the limit...",
+    "Discussion": "Long discussion text...",
+    "CheckText": "PowerCLI command to verify...",
+    "FixText": "Run Set-VMHost to fix..."
+  },
+  {
+    "VulId": "V-258729",
+    "RuleTitle": "...",
+    "Discussion": "...",
+    "CheckText": "...",
+    "FixText": "..."
+  }
+]

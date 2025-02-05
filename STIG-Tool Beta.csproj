@@ -10,6 +10,20 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Resources\ESXi70_STIGChecks.json" />
+    <None Remove="Resources\ESXi80_STIGChecks.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\ESXi70_STIGChecks.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\ESXi80_STIGChecks.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.PowerShell.SDK" Version="7.5.0" />
   </ItemGroup>
 
